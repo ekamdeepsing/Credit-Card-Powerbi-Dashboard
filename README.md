@@ -1,10 +1,15 @@
-# 💳 Credit Card Transaction Analysis Dashboard (Power BI)
+# 💳 Credit Card Transaction Analysis Dashboard | Power BI
 
 ## 📌 Project Overview
 
-This project presents an interactive **Power BI dashboard** designed to analyze credit card transaction data and uncover actionable insights related to customer behavior, revenue trends, and spending patterns.
+This project demonstrates end-to-end data analysis, including data modeling, DAX calculations, and interactive dashboard design.  Also, this project presents an interactive **Power BI dashboard** designed to analyze credit card transaction data and uncover actionable insights related to customer behavior, revenue trends, and spending patterns.
 
 The dashboard enables stakeholders to quickly understand **key drivers of revenue**, identify high-value customer segments, and monitor transaction performance across multiple dimensions.
+
+---
+
+## Dashboard Screenshot :
+![Dashboard Screenshot](Credit_Card_Transaction.png)
 
 ---
 
