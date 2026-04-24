@@ -53,12 +53,6 @@ The dashboard enables stakeholders to quickly understand **key drivers of revenu
 
 ---
 
-## 📷 Dashboard Preview
-
-Credit_Card_Transaction.png
-
----
-
 ## 📁 Repository Contents
 
 * `CreditCardDashboard.pbix` → Power BI dashboard file
