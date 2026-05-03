@@ -2,7 +2,8 @@
 
 ## 📌 Project Overview
 
-This project demonstrates end-to-end data analysis, including data modeling, DAX calculations, and interactive dashboard design.  Also, this project presents an interactive **Power BI dashboard** designed to analyze credit card transaction data and uncover actionable insights related to customer behavior, revenue trends, and spending patterns.
+This project analyses a credit card transaction dataset containing 650,000+ transactions and $55M+ revenue to identify key customer segments, spending behaviour, and revenue drivers.
+The goal was to simulate a real-world business scenario where data is used to support decision-making, optimise customer targeting, and improve revenue performance.
 
 The dashboard enables stakeholders to quickly understand **key drivers of revenue**, identify high-value customer segments, and monitor transaction performance across multiple dimensions.
 
@@ -23,6 +24,19 @@ The dashboard enables stakeholders to quickly understand **key drivers of revenu
 ---
 
 ## 📊 Dashboard Highlights
+**Total Revenue:** $55M+
+**Transaction Volume:** 650K+ transactions
+**Revenue breakdown by:**
+    Customer segment
+    Card category
+    Transaction method
+    Expenditure type
+
+**Interactive filters allow analysis by:**
+
+    Quarter
+    Gender
+    Customer attributes
 
 ### 🔹 Key Metrics (KPIs)
 
